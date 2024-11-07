@@ -1,0 +1,122 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    color: #000000;
+}
+
+header {
+    text-align: center;
+    padding: 20px;
+    background-color: #fff;
+}
+
+
+nav ul {
+    list-style-type: none;
+    padding: 10px 0;
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+}
+
+nav ul li {
+    display: inline;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+}
+
+main {
+    display: flex;
+    padding: 20px;
+}
+
+.sidebar {
+    width: 25%;
+    padding-right: 20px;
+}
+
+.sidebar .perfil,
+.sidebar .subscribe {
+    background-color: #fff;
+    padding: 15px;
+    margin-bottom: 20px;
+    text-align: center;
+
+}
+
+.sidebar .perfil img,
+.sidebar .subscribe img {
+    width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+}
+
+.sidebar .subscribe button {
+    padding: 10px 20px;
+    background-color: #77c293;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+.recetas {
+    width: 75%;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+}
+
+.recetas article {
+    background-color: #fff;
+    padding: 15px;
+
+}
+
+.recetas article img {
+    width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+}
+
+.recetas article h2 {
+    font-size: 1.2em;
+    margin-bottom: 5px;
+}
+
+.recetas article p {
+    font-size: 0.9em;
+    color: #555;
+}
+
+.recetas .date {
+    font-size: 0.8em;
+    color: #aaa;
+}
+
+footer {
+    background-color: #000000;
+    color: #fff;
+    text-align: center;
+    padding: 25px;
+}
+
+footer ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+footer ul li a {
+    text-decoration: none;
+    color: #fff;
+}
