@@ -1,0 +1,190 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+}
+
+
+/* Menú header */
+header {
+    text-align: center;
+    padding: 1%;
+    width: 100%;
+    background-color: #fff;
+    position: fixed;
+    
+}
+
+header img {
+    width: 21%;
+}
+
+header a:hover {
+    color:rgb(48, 207, 16);
+}
+
+nav ul {
+    padding: 10px 0;
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+}
+
+nav ul li {
+    display: inline;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+}
+
+
+
+/* container general */
+.container {
+    width: 100%;  
+    padding: 20px;
+    background-color: #ebebeb;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    
+}
+
+/* titulo */
+.container .titulo {
+    display: flex;
+    gap: 10px;
+    margin-top: 13%;   
+
+}
+
+.container .titulo h1 {
+    font-size: 40px;
+
+}
+.container .imagentitulo {
+    width: 3%;
+
+}
+
+
+h1 {
+    font-size: 24px;
+    color: #006600;
+    margin-bottom: 10px;
+}
+
+p {
+    font-size: 16px;
+    line-height: 1.5;
+    color: #333;
+
+}
+
+/* recetas */
+
+.recipe {
+    border-top: 1px solid #ddd;
+    padding-top: 20px;
+    margin-top: 3%;
+}
+
+.recipe .recipe-header {
+    display: flex;
+    gap: 5px;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.recipe .recipe-header .iconos-header {
+    align-items: center;
+    display: flex;
+}
+
+.recipe .recipe-header .iconos-header img {
+    display: flex;
+    width: 35px;
+    gap: 10px;
+    
+}
+
+.recipe h2 {
+    color: #009900;
+    font-size: 20px;
+    margin-bottom: 5px;
+}
+
+.recipe a:hover {
+    color: orange;
+}
+
+.icons {
+    display: flex;
+    gap: 10px;
+    margin-top: 10px;
+}
+
+.icons img {
+    width: 35px;
+
+}
+
+.container a {
+    color: #006600;
+}
+
+
+/* receta con imagen */
+
+.receta-con-imagen {
+    display: flex;
+}
+
+.receta-con-imagen .imagen-receta  img {
+    width: 100px;
+    display: flex;
+}
+
+.receta-con-imagen .descripcion-receta {
+    display: block;
+    margin-left: 1%;
+}
+
+
+
+/* footer */
+
+footer {
+    background-color: #000000;
+    color: #fff;
+    text-align: center;
+    padding: 25px;
+    margin-top: 5%;
+}
+
+footer ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+    gap: 4%;
+}
+
+footer ul li a {
+    text-decoration: none;
+    color: #fff;
+}
+
+footer ul li a:visited {
+    color: rgb(218, 218, 218);
+}
+
+footer ul li a:hover {
+    color: red;
+}
