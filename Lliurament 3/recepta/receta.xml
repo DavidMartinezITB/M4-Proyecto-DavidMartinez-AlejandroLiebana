@@ -1,0 +1,926 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<recetas>
+   <receta id="1">
+       <titulo>Arroz Negro</titulo>
+       <descripcion>Aquí tienes la receta de un delicioso arroz negro sencillo y lleno de sabor,
+           ideal para aquellos que prefieren disfrutar del arroz con el intenso gusto del mar sin
+           necesidad de añadir mariscos.</descripcion>
+       <ingredientes>
+           <ingrediente>400 g de arroz bomba o de grano corto</ingrediente>
+           <ingrediente>1 litro de caldo de pescado, caliente (o de verduras si prefieres un sabor
+               más suave)</ingrediente>
+           <ingrediente>1 cebolla grande, picada finamente</ingrediente>
+           <ingrediente>2 dientes de ajo, picados</ingrediente>
+           <ingrediente>1 tomate grande, rallado</ingrediente>
+           <ingrediente>2 sobres de tinta de calamar</ingrediente>
+           <ingrediente>Aceite de oliva virgen extra</ingrediente>
+           <ingrediente>Sal al gusto</ingrediente>
+           <ingrediente>Perejil fresco picado para decorar (opcional)</ingrediente>
+           <ingrediente>Gajos de limón para servir (opcional)</ingrediente>
+       </ingredientes>
+       <imagen>../imatges/arroznegro.webp</imagen>
+       <pasos>
+           <paso>Prepara el sofrito: En una sartén grande o paellera, calienta un chorrito generoso
+               de aceite de oliva a fuego medio. Añade la cebolla y el ajo, y sofríe hasta que
+               estén bien pochados y la cebolla esté dorada, aproximadamente 7-8 minutos.</paso>
+           <paso>Incorpora el tomate: Añade el tomate rallado y cocina a fuego lento hasta que se
+               haya reducido y se mezcle bien con la cebolla y el ajo, creando un sofrito aromático
+               y sabroso. Esto tomará unos 5 minutos.</paso>
+           <paso>Añade la tinta de calamar: Diluye la tinta en un poco de caldo caliente y viértela
+               en la sartén, removiendo bien para que la mezcla tome el color negro característico
+               del plato.</paso>
+           <paso>Agrega el arroz: Añade el arroz a la sartén y mézclalo con el sofrito y la tinta
+               de calamar durante un par de minutos para que se impregne de todos los sabores y
+               tome un tono negro intenso.</paso>
+           <paso>Cocina el arroz: Vierte el caldo caliente en la sartén, asegurándote de cubrir
+               bien el arroz. Cocina a fuego medio sin remover, permitiendo que el arroz absorba el
+               caldo. Cocina entre 15-18 minutos o hasta que el arroz esté en su punto.</paso>
+           <paso>Reposa y sirve: Apaga el fuego y deja reposar el arroz negro unos minutos antes de
+               servir. Decora con perejil fresco y acompaña con gajos de limón si lo deseas.</paso>
+       </pasos>
+
+
+       <consejos>
+           <consejo>Para darle un toque extra, puedes añadir un chorrito de aceite de oliva al
+               final de la cocción.</consejo>
+           <consejo>El limón aporta un toque fresco que contrasta perfectamente con el sabor
+               intenso del arroz negro.</consejo>
+       </consejos>
+
+
+
+
+       <agradecimiento>Disfruta de este arroz negro sencillo, ideal para saborear el carácter
+           auténtico de la cocina mediterránea en cualquier ocasión.</agradecimiento>
+
+
+
+
+   </receta>
+
+
+
+
+   <receta id="2">
+
+
+
+
+       <titulo>Base de Pizza Casera</titulo>
+       <descripcion>Una receta sencilla para hacer una base de pizza casera, perfecta para
+           personalizar con tus ingredientes favoritos. ¡Disfruta de una pizza recién hecha en
+           casa!</descripcion>
+       <ingredientes>
+           <ingrediente>500 g de harina de trigo</ingrediente>
+           <ingrediente>10 g de sal</ingrediente>
+           <ingrediente>7 g de levadura seca</ingrediente>
+           <ingrediente>300 ml de agua tibia</ingrediente>
+           <ingrediente>2 cucharadas de aceite de oliva</ingrediente>
+           <ingrediente>1 cucharadita de azúcar</ingrediente>
+           <ingrediente>Un poco de semolina (opcional, para espolvorear)</ingrediente>
+
+
+
+
+       </ingredientes>
+
+
+
+
+       <imagen>../imatges/basepizza.webp</imagen>
+
+
+       <pasos>
+           <paso>Preparar la levadura: En un bol pequeño, mezcla el agua tibia, el azúcar y la
+               levadura. Deja reposar durante 5 minutos hasta que la levadura se active.</paso>
+           <paso>Mezclar los ingredientes secos: En un bol grande, mezcla la harina con la sal.</paso>
+           <paso>Formar la masa: Añade la mezcla de levadura y el aceite de oliva a la harina.
+               Mezcla hasta obtener una masa homogénea.</paso>
+           <paso>Amasar: Coloca la masa sobre una superficie limpia y amasa durante unos 10
+               minutos, hasta que esté suave y elástica.</paso>
+           <paso>Reposar: Coloca la masa en un bol engrasado, cúbrela con un paño y deja reposar en
+               un lugar cálido durante 1 hora o hasta que haya duplicado su tamaño.</paso>
+           <paso>Formar la base: Una vez la masa haya reposado, divídela en porciones y estírala
+               con las manos o un rodillo para formar la base de pizza.</paso>
+       </pasos>
+
+
+
+
+       <consejos>
+           <consejo>Para una base más crujiente, espolvorea semolina sobre la superficie antes de
+               hornear.</consejo>
+           <consejo>Deja que la masa repose más tiempo para un sabor más intenso.</consejo>
+       </consejos>
+
+
+
+
+       <agradecimiento>¡Listo para poner tus ingredientes favoritos y hornear! Disfruta de tu pizza
+           casera.</agradecimiento>
+
+
+
+
+   </receta>
+
+
+
+
+   <receta id="3">
+
+
+
+
+       <titulo>Canelones Caseros</titulo>
+       <descripcion>Deliciosos canelones caseros rellenos de una mezcla de carne y queso, bañados
+           con una rica salsa de tomate. ¡Una receta tradicional que siempre gusta!</descripcion>
+       <ingredientes>
+           <ingrediente>12 placas de canelones</ingrediente>
+           <ingrediente>300 g de carne picada (ternera o cerdo)</ingrediente>
+           <ingrediente>1 cebolla picada finamente</ingrediente>
+           <ingrediente>1 diente de ajo picado</ingrediente>
+           <ingrediente>250 g de ricotta o queso ricotta</ingrediente>
+           <ingrediente>100 g de queso rallado (mozzarella o parmesano)</ingrediente>
+           <ingrediente>Salsa bechamel (opcional)</ingrediente>
+       </ingredientes>
+
+
+
+
+       <imagen>../imatges/canelones.jpg</imagen>
+
+
+       <pasos>
+           <paso>Cocer las placas de canelones: Cocina las placas de canelones según las
+               instrucciones del paquete, escúrrelas y resérvalas.</paso>
+           <paso>Preparar el relleno: En una sartén con un poco de aceite de oliva, sofríe la
+               cebolla y el ajo. Añade la carne picada y cocina hasta que se dore. Agrega el tomate
+               triturado, salpimienta y cocina durante 10 minutos.</paso>
+           <paso>Mezclar con el queso: Deja enfriar la mezcla de carne y tomate, luego añádela al
+               queso ricotta y al huevo. Mezcla bien hasta obtener una masa homogénea.</paso>
+           <paso>Rellenar los canelones: Rellena las placas de canelones con la mezcla preparada.</paso>
+           <paso>Hornear: Coloca los canelones rellenos en una fuente para horno. Cubre con salsa
+               bechamel o salsa de tomate. Espolvorea con queso rallado y hornea a 180°C durante 20
+               minutos o hasta que estén dorados.</paso>
+       </pasos>
+
+
+
+
+       <consejos>
+           <consejo>Puedes hacer el relleno con pollo o verduras si prefieres una opción más
+               ligera.</consejo>
+           <consejo>Añadir un toque de albahaca o orégano fresco a la salsa de tomate resalta el
+               sabor.</consejo>
+       </consejos>
+
+
+
+
+       <agradecimiento>Disfruta de estos deliciosos canelones caseros, ideales para una comida
+           reconfortante y sabrosa.</agradecimiento>
+
+
+
+
+   </receta>
+
+
+
+
+   <receta id="4">
+       <titulo>Paella Valenciana</titulo>
+       <descripcion>Una receta tradicional de la Comunidad Valenciana, España.</descripcion>
+       <ingredientes>
+           <ingrediente>Arroz</ingrediente>
+           <ingrediente>Pollo</ingrediente>
+           <ingrediente>Judía verde</ingrediente>
+           <ingrediente>Tomate</ingrediente>
+           <ingrediente>Azafrán</ingrediente>
+           <ingrediente>Aceite de oliva</ingrediente>
+       </ingredientes>
+       <imagen>../imatges/paella_valenciana.jpg</imagen>
+       <pasos>
+           <paso>Sofreír el pollo y las verduras</paso>
+           <paso>Añadir el arroz y el caldo</paso>
+           <paso>Cocinar a fuego medio hasta que el arroz esté en su punto</paso>
+       </pasos>
+       <consejos>
+           <consejo>Usa caldo de pollo casero para mejor sabor</consejo>
+           <consejo>Deja reposar la paella 5 minutos antes de servir</consejo>
+       </consejos>
+       <agradecimiento>Disfruta de la auténtica paella</agradecimiento>
+   </receta>
+
+
+
+
+   <receta id="5">
+       <titulo>Enchiladas Verdes</titulo>
+       <descripcion>Un plato típico mexicano con salsa verde.</descripcion>
+       <ingredientes>
+           <ingrediente>Tortillas de maíz</ingrediente>
+           <ingrediente>Pollo desmenuzado</ingrediente>
+           <ingrediente>Tomatillos</ingrediente>
+           <ingrediente>Chiles verdes</ingrediente>
+           <ingrediente>Crema</ingrediente>
+           <ingrediente>Queso rallado</ingrediente>
+       </ingredientes>
+       <imagen>../imatges/enchiladas_verdes.jpg</imagen>
+       <pasos>
+           <paso>Cocinar la salsa con tomatillos y chiles</paso>
+           <paso>Rellenar las tortillas con pollo y enrollarlas</paso>
+           <paso>Verter la salsa sobre las tortillas y gratinar con queso</paso>
+       </pasos>
+       <consejos>
+           <consejo>Asa los tomatillos para un sabor más intenso</consejo>
+           <consejo>Sirve con crema y cebolla fresca</consejo>
+       </consejos>
+       <agradecimiento>Disfruta este plato con un toque mexicano</agradecimiento>
+   </receta>
+
+
+
+
+   <receta id="6">
+       <titulo>Spaghetti Carbonara</titulo>
+       <descripcion>Una receta clásica italiana con huevo, queso y panceta.</descripcion>
+       <ingredientes>
+           <ingrediente>Spaghetti</ingrediente>
+           <ingrediente>Panceta</ingrediente>
+           <ingrediente>Huevos</ingrediente>
+           <ingrediente>Queso parmesano</ingrediente>
+           <ingrediente>Pimienta negra</ingrediente>
+           <ingrediente>Sal</ingrediente>
+       </ingredientes>
+       <imagen>../imatges/spaghetti_carbonara.jpg</imagen>
+       <pasos>
+           <paso>Cocinar la pasta en agua con sal</paso>
+           <paso>Freír la panceta hasta que esté crujiente</paso>
+           <paso>Mezclar los huevos con el queso rallado y añadir a la pasta</paso>
+       </pasos>
+       <consejos>
+           <consejo>No uses nata, la receta original no la lleva</consejo>
+           <consejo>Agrega la mezcla de huevo con la pasta fuera del fuego</consejo>
+       </consejos>
+       <agradecimiento>Buon appetito</agradecimiento>
+   </receta>
+
+
+
+
+   <receta id="7">
+       <titulo>Sopa de Lentejas</titulo>
+       <descripcion>Una sopa nutritiva y reconfortante para días fríos.</descripcion>
+       <ingredientes>
+           <ingrediente>Lentejas</ingrediente>
+           <ingrediente>Zanahorias</ingrediente>
+           <ingrediente>Patatas</ingrediente>
+           <ingrediente>Cebolla</ingrediente>
+           <ingrediente>Ajo</ingrediente>
+           <ingrediente>Chorizo</ingrediente>
+       </ingredientes>
+       <imagen>../imatges/sopa_lentejas.jpg</imagen>
+       <pasos>
+           <paso>Cocinar las lentejas con agua y sal</paso>
+           <paso>Añadir las verduras cortadas en trozos</paso>
+           <paso>Incorporar el chorizo y cocinar a fuego lento</paso>
+       </pasos>
+       <consejos>
+           <consejo>Remoja las lentejas previamente para acelerar la cocción</consejo>
+           <consejo>Sirve con pan crujiente</consejo>
+       </consejos>
+       <agradecimiento>Disfruta esta reconfortante sopa</agradecimiento>
+   </receta>
+
+
+
+
+   <receta id="8">
+       <titulo>Tacos al Pastor</titulo>
+       <descripcion>Los icónicos tacos mexicanos con cerdo adobado.</descripcion>
+       <ingredientes>
+           <ingrediente>Tortillas de maíz</ingrediente>
+           <ingrediente>Carne de cerdo adobada</ingrediente>
+           <ingrediente>Piña</ingrediente>
+           <ingrediente>Cilantro</ingrediente>
+           <ingrediente>Cebolla</ingrediente>
+           <ingrediente>Limón</ingrediente>
+       </ingredientes>
+       <imagen>../imatges/tacos_al_pastor.jpg</imagen>
+       <pasos>
+           <paso>Cocinar la carne de cerdo adobada</paso>
+           <paso>Cortar la piña en rodajas finas</paso>
+           <paso>Servir la carne en tortillas con piña, cebolla y cilantro</paso>
+       </pasos>
+       <consejos>
+           <consejo>Usa tortillas recién hechas</consejo>
+           <consejo>Agrega salsa picante al gusto</consejo>
+       </consejos>
+       <agradecimiento>Disfruta de estos deliciosos tacos</agradecimiento>
+   </receta>
+
+
+
+
+   <receta id="9">
+       <titulo>Pancakes Esponjosos</titulo>
+       <descripcion>Pancakes clásicos y esponjosos para un desayuno perfecto.</descripcion>
+       <ingredientes>
+           <ingrediente>Harina</ingrediente>
+           <ingrediente>Leche</ingrediente>
+           <ingrediente>Huevos</ingrediente>
+           <ingrediente>Mantequilla</ingrediente>
+           <ingrediente>Polvo de hornear</ingrediente>
+           <ingrediente>Azúcar</ingrediente>
+       </ingredientes>
+       <imagen>../imatges/pancakes.jpg</imagen>
+       <pasos>
+           <paso>Mezclar los ingredientes secos</paso>
+           <paso>Incorporar la leche, los huevos y la mantequilla derretida</paso>
+           <paso>Cocinar en una sartén hasta que aparezcan burbujas</paso>
+       </pasos>
+       <consejos>
+           <consejo>No mezcles en exceso la masa</consejo>
+           <consejo>Sirve con miel o jarabe de arce</consejo>
+       </consejos>
+       <agradecimiento>Disfruta de un desayuno delicioso</agradecimiento>
+   </receta>
+
+
+
+
+   <receta id="10">
+       <titulo>Brownies de Chocolate</titulo>
+       <descripcion>Postre de chocolate con una textura húmeda y densa.</descripcion>
+       <ingredientes>
+           <ingrediente>Chocolate negro</ingrediente>
+           <ingrediente>Mantequilla</ingrediente>
+           <ingrediente>Azúcar</ingrediente>
+           <ingrediente>Huevos</ingrediente>
+           <ingrediente>Harina</ingrediente>
+           <ingrediente>Vainilla</ingrediente>
+       </ingredientes>
+       <imagen>../imatges/brownies_chocolate.jpg</imagen>
+       <pasos>
+           <paso>Fundir la mantequilla y el chocolate juntos</paso>
+           <paso>Batir los huevos con el azúcar</paso>
+           <paso>Mezclar todos los ingredientes</paso>
+           <paso>Hornear a 180°C por 25 minutos</paso>
+       </pasos>
+       <consejos>
+           <consejo>No hornees en exceso para conservar la humedad</consejo>
+           <consejo>Deja enfriar antes de cortar para obtener cortes limpios</consejo>
+       </consejos>
+       <agradecimiento>Disfruta de estos deliciosos brownies</agradecimiento>
+   </receta>
+
+
+
+
+   <receta id="11">
+       <titulo>Ensalada César</titulo>
+       <descripcion>Una ensalada clásica con lechuga, pollo, crutones y aderezo César.</descripcion>
+       <ingredientes>
+           <ingrediente>Lechuga romana</ingrediente>
+           <ingrediente>Pollo a la parrilla</ingrediente>
+           <ingrediente>Crutones</ingrediente>
+           <ingrediente>Queso parmesano</ingrediente>
+           <ingrediente>Aderezo César</ingrediente>
+       </ingredientes>
+       <imagen>../imatges/ensalada_cesar.jpg</imagen>
+       <pasos>
+           <paso>Lavar y secar la lechuga</paso>
+           <paso>Cocinar el pollo a la parrilla</paso>
+           <paso>Mezclar los ingredientes en un bol</paso>
+       </pasos>
+       <consejos>
+           <consejo>Prepara el aderezo casero para un mejor sabor</consejo>
+           <consejo>Agrega los crutones justo antes de servir para que estén crujientes</consejo>
+       </consejos>
+       <agradecimiento>Disfruta de esta ensalada fresca y deliciosa</agradecimiento>
+   </receta>
+
+
+
+
+   <receta id="12">
+       <titulo>Pollo al Curry</titulo>
+       <descripcion>Receta de pollo con una deliciosa y aromática salsa de curry.</descripcion>
+       <ingredientes>
+           <ingrediente>Pechugas de pollo</ingrediente>
+           <ingrediente>Cebolla</ingrediente>
+           <ingrediente>Leche de coco</ingrediente>
+           <ingrediente>Pasta de curry</ingrediente>
+           <ingrediente>Aceite de oliva</ingrediente>
+       </ingredientes>
+       <imagen>../imatges/pollo_curry.jpg</imagen>
+       <pasos>
+           <paso>Saltear la cebolla con el aceite</paso>
+           <paso>Añadir el pollo y dorarlo</paso>
+           <paso>Incorporar la pasta de curry y la leche de coco</paso>
+           <paso>Cocinar a fuego lento por 20 minutos</paso>
+       </pasos>
+       <consejos>
+           <consejo>Ajusta la cantidad de pasta de curry según tu gusto</consejo>
+           <consejo>Acompaña con arroz basmati para un plato completo</consejo>
+       </consejos>
+       <agradecimiento>Disfruta de este plato lleno de sabor y aromas</agradecimiento>
+   </receta>
+
+
+
+
+   <receta id="13">
+       <titulo>Gazpacho Andaluz</titulo>
+       <descripcion>Una sopa fría tradicional de Andalucía, España.</descripcion>
+       <ingredientes>
+           <ingrediente>Tomates maduros</ingrediente>
+           <ingrediente>Pimiento verde</ingrediente>
+           <ingrediente>Pepino</ingrediente>
+           <ingrediente>Ajo</ingrediente>
+           <ingrediente>Aceite de oliva</ingrediente>
+           <ingrediente>Vinagre</ingrediente>
+           <ingrediente>Sal</ingrediente>
+       </ingredientes>
+       <imagen>../imatges/gazpacho.jpg</imagen>
+       <pasos>
+           <paso>Lavar y cortar las verduras</paso>
+           <paso>Licuar todos los ingredientes</paso>
+           <paso>Colar y refrigerar por 2 horas</paso>
+       </pasos>
+       <consejos>
+           <consejo>Sirve bien frío para disfrutarlo mejor</consejo>
+           <consejo>Agrega trocitos de pepino y pan tostado como guarnición</consejo>
+       </consejos>
+       <agradecimiento>Disfruta de esta refrescante sopa fría</agradecimiento>
+   </receta>
+
+
+
+
+   <receta id="14">
+       <titulo>Tacos de Carne Asada</titulo>
+       <descripcion>Deliciosos tacos de carne asada, típicos de la cocina mexicana.</descripcion>
+       <ingredientes>
+           <ingrediente>Carne de res</ingrediente>
+           <ingrediente>Tortillas de maíz</ingrediente>
+           <ingrediente>Cebolla</ingrediente>
+           <ingrediente>Cilantro</ingrediente>
+           <ingrediente>Limón</ingrediente>
+           <ingrediente>Salsa</ingrediente>
+       </ingredientes>
+       <imagen>../imatges/tacos_carne_asada.jpg</imagen>
+       <pasos>
+           <paso>Asar la carne a la parrilla</paso>
+           <paso>Picar la cebolla y el cilantro</paso>
+           <paso>Servir la carne en la tortilla con la cebolla, cilantro y salsa</paso>
+       </pasos>
+       <consejos>
+           <consejo>Marina la carne con especias antes de asar para más sabor</consejo>
+           <consejo>Agrega limón antes de comer para un toque fresco</consejo>
+       </consejos>
+       <agradecimiento>Disfruta de estos tacos llenos de sabor</agradecimiento>
+   </receta>
+
+
+
+
+   <receta id="15">
+       <titulo>Crepes Dulces</titulo>
+       <descripcion>Deliciosas crepes dulces que se pueden rellenar con frutas, chocolate o
+           mermelada.</descripcion>
+       <ingredientes>
+           <ingrediente>Harina</ingrediente>
+           <ingrediente>Huevos</ingrediente>
+           <ingrediente>Leche</ingrediente>
+           <ingrediente>Mantequilla</ingrediente>
+           <ingrediente>Azúcar</ingrediente>
+           <ingrediente>Vainilla</ingrediente>
+       </ingredientes>
+       <imagen>../imatges/crepes_dulces.jpg</imagen>
+       <pasos>
+           <paso>Mezclar todos los ingredientes en un bol hasta obtener una mezcla homogénea</paso>
+           <paso>Calentar una sartén y verter una porción de la mezcla</paso>
+           <paso>Cocinar por ambos lados hasta que estén doradas</paso>
+           <paso>Rellenar con frutas, chocolate o mermelada</paso>
+       </pasos>
+       <consejos>
+           <consejo>Deja reposar la mezcla 30 minutos antes de usar</consejo>
+           <consejo>Usa una sartén antiadherente para evitar que se peguen</consejo>
+       </consejos>
+       <agradecimiento>Disfruta de estas deliciosas crepes dulces</agradecimiento>
+   </receta>
+
+
+   <receta id="16">
+       <titulo>Gazpacho Andaluz al gusto</titulo>
+       <descripcion>Una sopa fría refrescante perfecta para el verano.</descripcion>
+       <ingredientes>
+           <ingrediente>1 kg de tomates maduros</ingrediente>
+           <ingrediente>1 pimiento verde</ingrediente>
+           <ingrediente>1 pepino</ingrediente>
+           <ingrediente>1 diente de ajo</ingrediente>
+           <ingrediente>100 ml de aceite de oliva</ingrediente>
+           <ingrediente>30 ml de vinagre</ingrediente>
+           <ingrediente>Sal al gusto</ingrediente>
+       </ingredientes>
+       <imagen>../imatges/gazpacho_andaluz.jpg</imagen>
+       <pasos>
+           <paso>Lava y trocea los tomates, el pepino y el pimiento.</paso>
+           <paso>Agrega el ajo, el aceite, el vinagre y la sal.</paso>
+           <paso>Tritura todos los ingredientes hasta obtener una mezcla homogénea.</paso>
+           <paso>Pasa por un colador si deseas una textura más fina.</paso>
+           <paso>Refrigera y sirve bien frío.</paso>
+       </pasos>
+       <consejos>
+           <consejo>Acompaña con picatostes o verduras picadas.</consejo>
+       </consejos>
+       <agradecimiento>¡Refrescante y lleno de sabor!</agradecimiento>
+   </receta>
+
+
+
+
+   <receta id="17">
+       <titulo>Pasta al Pesto</titulo>
+       <descripcion>Una receta italiana rápida y deliciosa con pesto casero.</descripcion>
+       <ingredientes>
+           <ingrediente>300 g de pasta (espaguetis o penne)</ingrediente>
+           <ingrediente>50 g de albahaca fresca</ingrediente>
+           <ingrediente>50 g de piñones</ingrediente>
+           <ingrediente>1 diente de ajo</ingrediente>
+           <ingrediente>50 g de queso parmesano rallado</ingrediente>
+           <ingrediente>100 ml de aceite de oliva virgen extra</ingrediente>
+           <ingrediente>Sal y pimienta al gusto</ingrediente>
+       </ingredientes>
+       <imagen>../imatges/pestopasta.jpg</imagen>
+       <pasos>
+           <paso>Cuece la pasta en agua con sal.</paso>
+           <paso>En una batidora, mezcla la albahaca, los piñones, el ajo, el queso y el aceite.</paso>
+           <paso>Incorpora la salsa pesto a la pasta cocida y mezcla bien.</paso>
+           <paso>Sirve con más queso parmesano por encima.</paso>
+       </pasos>
+       <consejos>
+           <consejo>Utiliza pasta fresca para un mejor resultado.</consejo>
+       </consejos>
+       <agradecimiento>¡Disfruta de esta receta italiana clásica!</agradecimiento>
+   </receta>
+
+
+
+
+   <receta id="18">
+       <titulo>Ensalada César Americana</titulo>
+       <descripcion>Una ensalada clásica con pollo y aderezo cremoso.</descripcion>
+       <ingredientes>
+           <ingrediente>Lechuga romana</ingrediente>
+           <ingrediente>Pechuga de pollo a la plancha</ingrediente>
+           <ingrediente>Picatostes</ingrediente>
+           <ingrediente>Queso parmesano rallado</ingrediente>
+           <ingrediente>Aderezo César</ingrediente>
+       </ingredientes>
+       <imagen>../imatges/ensaladacesar_americana.jpg</imagen>
+       <pasos>
+           <paso>Corta la lechuga y coloca en un bol.</paso>
+           <paso>Añade el pollo troceado y los picatostes.</paso>
+           <paso>Incorpora el queso parmesano.</paso>
+           <paso>Aliña con el aderezo César y mezcla bien.</paso>
+       </pasos>
+       <consejos>
+           <consejo>Añadir anchoas para un toque extra de sabor.</consejo>
+       </consejos>
+       <agradecimiento>¡Una ensalada fresca y deliciosa!</agradecimiento>
+   </receta>
+
+
+
+
+   <receta id="19">
+       <titulo>Huevos Revueltos con Champiñones</titulo>
+       <descripcion>Un desayuno nutritivo y fácil de preparar.</descripcion>
+       <ingredientes>
+           <ingrediente>3 huevos</ingrediente>
+           <ingrediente>100 g de champiñones laminados</ingrediente>
+           <ingrediente>Aceite de oliva</ingrediente>
+           <ingrediente>Sal y pimienta</ingrediente>
+       </ingredientes>
+       <imagen>../imatges/huevoschampinones.jpg</imagen>
+       <pasos>
+           <paso>Sofríe los champiñones en aceite.</paso>
+           <paso>Añade los huevos batidos.</paso>
+           <paso>Remueve hasta cuajar los huevos.</paso>
+       </pasos>
+       <consejos>
+           <consejo>Añade cebollino fresco picado.</consejo>
+       </consejos>
+       <agradecimiento>¡Perfecto para empezar el día!</agradecimiento>
+   </receta>
+
+
+
+
+   <receta id="20">
+       <titulo>Paella Asturiana</titulo>
+       <descripcion>La auténtica paella con pollo y conejo.</descripcion>
+       <ingredientes>
+           <ingrediente>400 g de arroz</ingrediente>
+           <ingrediente>300 g de pollo</ingrediente>
+           <ingrediente>300 g de conejo</ingrediente>
+           <ingrediente>150 g de judía verde</ingrediente>
+           <ingrediente>100 g de garrofón</ingrediente>
+           <ingrediente>1 tomate rallado</ingrediente>
+           <ingrediente>Aceite de oliva</ingrediente>
+           <ingrediente>Hebras de azafrán</ingrediente>
+           <ingrediente>Caldo de pollo</ingrediente>
+           <ingrediente>Sal</ingrediente>
+       </ingredientes>
+       <imagen>../imatges/paella_asturiana.jpg</imagen>
+       <pasos>
+           <paso>Dora el pollo y el conejo en aceite.</paso>
+           <paso>Añade judía verde y sofríe.</paso>
+           <paso>Incorpora tomate rallado y azafrán.</paso>
+           <paso>Añade el arroz y el caldo.</paso>
+           <paso>Cocina hasta que el arroz esté en su punto.</paso>
+       </pasos>
+       <consejos>
+           <consejo>Deja reposar 5 minutos antes de servir.</consejo>
+       </consejos>
+       <agradecimiento>¡Una paella tradicional perfecta!</agradecimiento>
+   </receta>
+
+
+
+
+   <receta id="21">
+       <titulo>Falafel Casero</titulo>
+       <descripcion>Deliciosas croquetas de garbanzos con especias.</descripcion>
+       <ingredientes>
+           <ingrediente>300 g de garbanzos secos</ingrediente>
+           <ingrediente>1 cebolla</ingrediente>
+           <ingrediente>2 dientes de ajo</ingrediente>
+           <ingrediente>Perejil fresco</ingrediente>
+           <ingrediente>Cilantro fresco</ingrediente>
+           <ingrediente>1 cucharadita de comino molido</ingrediente>
+           <ingrediente>Aceite para freír</ingrediente>
+           <ingrediente>Sal y pimienta</ingrediente>
+       </ingredientes>
+       <imagen>../imatges/falafel.jpg</imagen>
+       <pasos>
+           <paso>Remoja los garbanzos durante 12 horas.</paso>
+           <paso>Tritura garbanzos, cebolla, ajo y especias.</paso>
+           <paso>Forma bolitas y fríelas en aceite caliente.</paso>
+       </pasos>
+       <consejos>
+           <consejo>Acompaña con salsa de yogur.</consejo>
+       </consejos>
+       <agradecimiento>¡Una opción vegetariana deliciosa!</agradecimiento>
+   </receta>
+
+
+
+
+   <receta id="22">
+       <titulo>Risotto de Champiñones</titulo>
+       <descripcion>Un risotto cremoso con el sabor de los champiñones.</descripcion>
+       <ingredientes>
+           <ingrediente>300 g de arroz arborio</ingrediente>
+           <ingrediente>200 g de champiñones</ingrediente>
+           <ingrediente>1 cebolla</ingrediente>
+           <ingrediente>1 litro de caldo de verduras</ingrediente>
+           <ingrediente>100 ml de vino blanco</ingrediente>
+           <ingrediente>50 g de queso parmesano</ingrediente>
+           <ingrediente>Mantequilla</ingrediente>
+           <ingrediente>Aceite de oliva</ingrediente>
+           <ingrediente>Sal y pimienta</ingrediente>
+       </ingredientes>
+       <imagen>../imatges/risotto.jpg</imagen>
+       <pasos>
+           <paso>Sofríe cebolla y champiñones.</paso>
+           <paso>Añade el arroz y rehoga.</paso>
+           <paso>Incorpora el vino blanco y deja evaporar.</paso>
+           <paso>Agrega caldo poco a poco y remueve.</paso>
+           <paso>Termina con parmesano y mantequilla.</paso>
+       </pasos>
+       <consejos>
+           <consejo>Remueve constantemente para lograr la cremosidad.</consejo>
+       </consejos>
+       <agradecimiento>¡Un plato italiano lleno de sabor!</agradecimiento>
+   </receta>
+
+
+
+
+   <receta id="23">
+       <titulo>Gnocchi de Patata</titulo>
+       <descripcion>Tiernos gnocchi de patata, una pasta tradicional italiana.</descripcion>
+       <ingredientes>
+           <ingrediente>500 g de patatas</ingrediente>
+           <ingrediente>150 g de harina de trigo</ingrediente>
+           <ingrediente>1 huevo</ingrediente>
+           <ingrediente>Sal</ingrediente>
+           <ingrediente>Salsa de tomate o pesto</ingrediente>
+       </ingredientes>
+       <imagen>../imatges/gnocchi.jpg</imagen>
+       <pasos>
+           <paso>Cuece las patatas y haz un puré.</paso>
+           <paso>Añade el huevo y la harina.</paso>
+           <paso>Amasa y forma los gnocchi.</paso>
+           <paso>Cuécelos en agua hirviendo hasta que floten.</paso>
+           <paso>Sírvelos con la salsa de tu preferencia.</paso>
+       </pasos>
+       <consejos>
+           <consejo>No trabajes demasiado la masa para evitar que quede dura.</consejo>
+       </consejos>
+       <agradecimiento>¡Deliciosa pasta casera!</agradecimiento>
+   </receta>
+
+
+
+
+   <receta id="24">
+       <titulo>Empanadillas de Atún</titulo>
+       <descripcion>Empanadillas crujientes rellenas de atún y tomate.</descripcion>
+       <ingredientes>
+           <ingrediente>12 obleas para empanadillas</ingrediente>
+           <ingrediente>2 latas de atún</ingrediente>
+           <ingrediente>100 g de tomate frito</ingrediente>
+           <ingrediente>1 huevo cocido</ingrediente>
+           <ingrediente>Aceite para freír</ingrediente>
+       </ingredientes>
+       <imagen>../imatges/empanadillas.jpg</imagen>
+       <pasos>
+           <paso>Mezcla el atún con el tomate y el huevo picado.</paso>
+           <paso>Rellena las obleas y ciérralas bien.</paso>
+           <paso>Fríelas en aceite caliente hasta dorar.</paso>
+       </pasos>
+       <consejos>
+           <consejo>Puedes hornearlas para una versión más ligera.</consejo>
+       </consejos>
+       <agradecimiento>¡Perfectas para un aperitivo!</agradecimiento>
+   </receta>
+
+
+
+
+   <receta id="25">
+       <titulo>Pollo al Curry Indones</titulo>
+       <descripcion>Un plato especiado y cremoso con influencia india.</descripcion>
+       <ingredientes>
+           <ingrediente>500 g de pechuga de pollo</ingrediente>
+           <ingrediente>1 cebolla</ingrediente>
+           <ingrediente>2 dientes de ajo</ingrediente>
+           <ingrediente>200 ml de leche de coco</ingrediente>
+           <ingrediente>2 cucharadas de curry en polvo</ingrediente>
+           <ingrediente>Aceite de oliva</ingrediente>
+           <ingrediente>Sal y pimienta</ingrediente>
+       </ingredientes>
+       <imagen>../imatges/pollo_curry_indones.jpg</imagen>
+       <pasos>
+           <paso>Sofríe la cebolla y el ajo picado.</paso>
+           <paso>Añade el pollo troceado y dora.</paso>
+           <paso>Incorpora el curry y la leche de coco.</paso>
+           <paso>Cocina a fuego lento hasta espesar.</paso>
+       </pasos>
+       <consejos>
+           <consejo>Acompaña con arroz basmati.</consejo>
+       </consejos>
+       <agradecimiento>¡Disfruta de este exótico plato!</agradecimiento>
+   </receta>
+
+
+
+
+   <receta id="26">
+       <titulo>Tortilla Española</titulo>
+       <descripcion>La clásica tortilla de patatas, un icono de la gastronomía española.</descripcion>
+       <ingredientes>
+           <ingrediente>4 patatas medianas</ingrediente>
+           <ingrediente>1 cebolla</ingrediente>
+           <ingrediente>5 huevos</ingrediente>
+           <ingrediente>Aceite de oliva</ingrediente>
+           <ingrediente>Sal</ingrediente>
+       </ingredientes>
+       <imagen>../imatges/tortilla.jpg</imagen>
+       <pasos>
+           <paso>Pela y corta las patatas y la cebolla.</paso>
+           <paso>Fríelas en aceite de oliva hasta que estén tiernas.</paso>
+           <paso>Escurre y mezcla con los huevos batidos.</paso>
+           <paso>Cuaja en una sartén por ambos lados.</paso>
+       </pasos>
+       <consejos>
+           <consejo>Puedes añadir pimientos para un toque diferente.</consejo>
+       </consejos>
+       <agradecimiento>¡Un clásico que nunca falla!</agradecimiento>
+   </receta>
+
+
+
+
+   <receta id="27">
+       <titulo>Pasta Carbonara</titulo>
+       <descripcion>Receta tradicional italiana de pasta con huevo y panceta.</descripcion>
+       <ingredientes>
+           <ingrediente>400 g de espaguetis</ingrediente>
+           <ingrediente>150 g de panceta</ingrediente>
+           <ingrediente>3 huevos</ingrediente>
+           <ingrediente>50 g de queso parmesano</ingrediente>
+           <ingrediente>Sal y pimienta</ingrediente>
+       </ingredientes>
+       <imagen>../imatges/carbonara.jpg</imagen>
+       <pasos>
+           <paso>Cuece la pasta en agua con sal.</paso>
+           <paso>Sofríe la panceta en una sartén.</paso>
+           <paso>Mezcla huevos y parmesano rallado.</paso>
+           <paso>Combina la pasta con la panceta y la mezcla de huevo.</paso>
+       </pasos>
+       <consejos>
+           <consejo>No uses nata para una carbonara auténtica.</consejo>
+       </consejos>
+       <agradecimiento>¡Disfruta de esta pasta clásica!</agradecimiento>
+   </receta>
+
+
+   <receta id="28">
+       <titulo>Ensalada Mediterránea</titulo>
+       <descripcion>Una ensalada fresca y colorida, perfecta para acompañar cualquier comida o
+           disfrutar sola.</descripcion>
+       <ingredientes>
+           <ingrediente>1 pepino</ingrediente>
+           <ingrediente>2 tomates maduros</ingrediente>
+           <ingrediente>1 cebolla morada</ingrediente>
+           <ingrediente>100 g de queso feta</ingrediente>
+           <ingrediente>Aceitunas negras al gusto</ingrediente>
+           <ingrediente>Aceite de oliva virgen extra</ingrediente>
+           <ingrediente>Vinagre balsámico</ingrediente>
+           <ingrediente>Sal y pimienta</ingrediente>
+       </ingredientes>
+       <imagen>../imatges/ensalada_mediterranea.jpg</imagen>
+       <pasos>
+           <paso>Corta los tomates, pepino y cebolla en rodajas finas.</paso>
+           <paso>Mezcla todos los ingredientes en un bol grande.</paso>
+           <paso>Agrega las aceitunas y el queso feta desmenuzado.</paso>
+           <paso>Aliña con aceite de oliva, vinagre balsámico, sal y pimienta.</paso>
+       </pasos>
+       <consejos>
+           <consejo>Refrigera la ensalada unos minutos antes de servir para un sabor más
+               refrescante.</consejo>
+       </consejos>
+       <agradecimiento>¡Una ensalada refrescante para cualquier ocasión!</agradecimiento>
+   </receta>
+
+
+   <receta id="29">
+       <titulo>Pizza Margherita</titulo>
+       <descripcion>La clásica pizza italiana con tomate, mozzarella y albahaca.</descripcion>
+       <ingredientes>
+           <ingrediente>1 base de pizza casera o comprada</ingrediente>
+           <ingrediente>200 g de tomate triturado</ingrediente>
+           <ingrediente>200 g de mozzarella fresca</ingrediente>
+           <ingrediente>Hojas de albahaca fresca</ingrediente>
+           <ingrediente>Aceite de oliva virgen extra</ingrediente>
+           <ingrediente>Sal y pimienta</ingrediente>
+       </ingredientes>
+       <imagen>../imatges/pizza_margherita.jpg</imagen>
+       <pasos>
+           <paso>Precalienta el horno a 220°C.</paso>
+           <paso>Extiende la base de pizza y cúbrela con el tomate triturado.</paso>
+           <paso>Coloca la mozzarella troceada y las hojas de albahaca.</paso>
+           <paso>Hornea durante 10-15 minutos o hasta que la pizza esté dorada y crujiente.</paso>
+           <paso>Antes de servir, rocía con un poco de aceite de oliva y añade sal y pimienta al
+               gusto.</paso>
+       </pasos>
+       <consejos>
+           <consejo>Utiliza mozzarella de buena calidad para un sabor más auténtico.</consejo>
+       </consejos>
+       <agradecimiento>¡Una pizza clásica que nunca pasa de moda!</agradecimiento>
+   </receta>
+
+
+   <receta id="30">
+       <titulo>Soufflé de Chocolate</titulo>
+       <descripcion>Un delicioso soufflé de chocolate, esponjoso y lleno de sabor.</descripcion>
+       <ingredientes>
+           <ingrediente>150 g de chocolate negro</ingrediente>
+           <ingrediente>4 huevos</ingrediente>
+           <ingrediente>50 g de azúcar</ingrediente>
+           <ingrediente>30 g de mantequilla</ingrediente>
+           <ingrediente>Azúcar glas para espolvorear</ingrediente>
+       </ingredientes>
+       <imagen>../imatges/souffle_chocolate.jpg</imagen>
+       <pasos>
+           <paso>Derrite el chocolate con la mantequilla en un baño maría.</paso>
+           <paso>Separa las claras de las yemas. Bate las claras a punto de nieve.</paso>
+           <paso>Bate las yemas con el azúcar hasta obtener una mezcla cremosa.</paso>
+           <paso>Incorpora el chocolate derretido a las yemas, y luego agrega las claras con
+               movimientos envolventes.</paso>
+           <paso>Vierte la mezcla en moldes enmantecados y hornea a 180°C durante 12-15 minutos.</paso>
+           <paso>Espolvorea con azúcar glas antes de servir.</paso>
+       </pasos>
+       <consejos>
+           <consejo>Sirve inmediatamente después de hornear para que no pierda su esponjosidad.</consejo>
+       </consejos>
+       <agradecimiento>¡Un postre delicioso para los amantes del chocolate!</agradecimiento>
+   </receta>
+</recetas>
